@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on machine learning projects
-- 🌱 I’m currently learning python , SQL
-- 👯 I’m looking to collaborate on environemntal data science 
+- 🔭 I’m currently working on data analysis and machine learning projects
+- 🌱 I’m currently learning Python , SQL , JavaScipt
+- 👯 I’m looking to collaborate on environemntal data analytics
 - 📫 How to reach me: arbiba1919@gmail.com
