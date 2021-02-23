@@ -2,4 +2,3 @@
 - 🌱 I’m currently learning python , SQL
 - 👯 I’m looking to collaborate on environemntal data science 
 - 📫 How to reach me: arbiba1919@gmail.com
-- 
